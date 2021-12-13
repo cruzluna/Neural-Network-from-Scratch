@@ -1,6 +1,7 @@
 from PIL import Image
 import os
 
+
 path = os.getcwd()
 
 i=0
