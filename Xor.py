@@ -1,5 +1,5 @@
 from dense import Dense
-from Activations import Tanh
+from activations import Tanh
 from Losses import mse, mse_prime
 from network import train, predict
 
