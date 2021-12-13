@@ -1,7 +1,7 @@
 from PIL import Image
 import os
 
-path = "C:\\Users\cluna\winterProject1\labels"
+path = os.getcwd()
 
 i=0
 # r=root, d=directories, f = files
